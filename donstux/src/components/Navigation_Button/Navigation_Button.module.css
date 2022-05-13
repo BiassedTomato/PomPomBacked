@@ -1,0 +1,36 @@
+.navButton{  
+    height: 54px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0px;
+
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.navButton > p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 16px 24px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: 'Open Sans';
+}
+
+.navButton_active {
+    position: relative;
+    bottom: 0%;
+    width: 50px;
+    height: 6px;
+    border-radius: 2px;
+    background-color: var(--yellow);
+}
+
+.navButton:hover{
+    font-weight: bold;
+}
+

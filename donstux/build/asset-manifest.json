@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efd7eaab.css",
+    "main.js": "/static/js/main.8098dba4.js",
+    "static/media/dogProfilePic.png": "/static/media/dogProfilePic.7fe545992c0401536802.png",
+    "static/media/banner.svg": "/static/media/banner.61d83a98d7e7d4067cc9c3dd210a5a41.svg",
+    "static/media/OpenSans-VariableFont_wdth,wght.ttf": "/static/media/OpenSans-VariableFont_wdth,wght.a42bbe687810bdc6e9e8.ttf",
+    "static/media/OpenSans.ttf": "/static/media/OpenSans.a42bbe687810bdc6e9e8.ttf",
+    "static/media/pet.png": "/static/media/pet.6bd2a3a696705a2d6993.png",
+    "static/media/Shelti.png": "/static/media/Shelti.b0de3578a5e7533ffbae.png",
+    "static/media/main_articleImageRight.png": "/static/media/main_articleImageRight.85d4a28111c5ea7b6932.png",
+    "static/media/main_articleImageLeft.png": "/static/media/main_articleImageLeft.0b9082ebea451f58a808.png",
+    "static/media/main_ourInfo_left.png": "/static/media/main_ourInfo_left.30a05a0f9c9a8696d9eb.png",
+    "static/media/main_ourInfo_right.png": "/static/media/main_ourInfo_right.5853a6331f86021b8186.png",
+    "static/media/main_reasonImageRight.png": "/static/media/main_reasonImageRight.77dff02cd7953d828031.png",
+    "static/media/main_reasonImageLeft.png": "/static/media/main_reasonImageLeft.a329f85c812b015d006a.png",
+    "static/media/logo.png": "/static/media/logo.1dfdda3f55746ae66abe.png",
+    "index.html": "/index.html",
+    "static/media/phone_icon.svg": "/static/media/phone_icon.79f66a78deeaacbb54d59591d9644f5c.svg",
+    "static/media/location_icon.svg": "/static/media/location_icon.bfcca6ccfcf8d419bae97fc24e77594b.svg",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.bb76639cca8976a52ffe99063a039562.svg",
+    "static/media/burger.svg": "/static/media/burger.79241c7eda3672be57fba433d593d3f6.svg",
+    "static/media/Vector.svg": "/static/media/Vector.2fe3865a2956ae87bd389a8a57ee10fa.svg",
+    "static/media/ChooseSign.svg": "/static/media/ChooseSign.f630e74a6f75a470b6de0adc09cc71df.svg",
+    "static/media/arrow_back.svg": "/static/media/arrow_back.1ac8a4b7ce946bf0c4c3b00feeb1ab30.svg",
+    "main.efd7eaab.css.map": "/static/css/main.efd7eaab.css.map",
+    "main.8098dba4.js.map": "/static/js/main.8098dba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd7eaab.css",
+    "static/js/main.8098dba4.js"
+  ]
+}

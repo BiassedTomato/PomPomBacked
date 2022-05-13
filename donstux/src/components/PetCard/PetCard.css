@@ -1,0 +1,123 @@
+@font-face {
+    font-family: Open Sans;
+    src: url(../../fonts/OpenSans.ttf);
+}
+
+.petBlock {
+    width: 320px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.subheading {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    /* identical to box height, or 125% */
+
+
+    color: #221E05;
+
+
+}
+
+.avarage {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+
+
+    color: #221E05;
+}
+
+.avarageBig {
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.petInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 20px;
+}
+
+.price {
+    padding-top: 20px;
+}
+
+.breed {
+    padding-top: 16px;
+}
+
+.petPhoto {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 320px;
+    height: 250px;
+    object-fit: cover;
+    cursor: pointer;
+
+    
+}
+
+
+@media screen and (max-width: 415px) {
+
+    .petBlock {
+        width: 180px;
+        height: 215px;
+    }
+
+    .subheading {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .avarage {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .avarageBig {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height, or 130% */
+
+
+        color: #221E05;
+
+    }
+
+    .petInfo {
+        padding-left: 12px;
+    }
+
+    .price {
+        padding-top: 12px;
+    }
+
+    .breed {
+        padding-top: 8px;
+    }
+
+    .petPhoto {
+        border-top-right-radius: 6px;
+        border-top-left-radius: 6px;
+        width: 180px;
+        height: 140px;
+    }
+}

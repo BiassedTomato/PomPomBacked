@@ -1,0 +1,38 @@
+.dogInfoBox{
+    width: fit-content;
+    height: fit-content;
+
+    padding: 8px 16px;
+
+    border: 1px solid #C5C2B3;
+    border-radius: 5px;
+}
+
+.title{
+    color: #8B8978;
+    font-size: 16px;
+}
+
+.info{
+    font-size: 20px;
+}
+
+
+@media screen and (max-width: 415px) {
+
+    .dogInfoBox{
+        padding: 4px 12px;
+    }
+
+    .title{
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .info{
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    
+}

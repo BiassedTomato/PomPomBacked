@@ -1,0 +1,55 @@
+#shade {
+    display: none;
+}
+
+#pane {
+    float: right;
+    height: 100%;
+    width: 300px;
+    z-index: 13;
+    background: #F4F5F4;
+}
+
+#cross{
+    margin: 10px;
+}
+
+#buttons-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 46px;
+}
+
+#buttons-container>button {
+    border: none;
+    background-color: #F4F5F4;
+    color: #312F19;
+
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 32px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+}
+
+#buttons-container>button:active {
+    background-color: #FED60F;
+}
+
+@media only screen and (max-width:415px) {
+    #shade {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        display: block;
+        background: rgba(49, 47, 25, 0.3);
+        left: 0;
+        top: 0;
+        z-index: 12;
+    }
+}
