@@ -4,6 +4,6 @@ A simple React-Redux + DjangoREST website. The frontend was made as a part of ou
 
 ## Features
 
-*Beautiful, modern design
-*Straightforward dog info API
-*Top-notch UX
+* Beautiful, modern design
+* Straightforward dog info API
+* Top-notch UX
